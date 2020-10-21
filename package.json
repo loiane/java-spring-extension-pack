@@ -1,0 +1,36 @@
+{
+    "name": "java-spring-extension-pack",
+    "displayName": "Java + Spring Extension Pack",
+    "description": "Some of the most popular and useful Java and Spring extensions",
+    "version": "0.0.1",
+    "publisher": "loiane",
+    "icon": "javaspring.png",
+    "license": "SEE LICENSE IN LICENSE.md",
+    "repository": "https://github.com/loiane/java-spring-extension-pack",
+    "engines": {
+        "vscode": "^1.50.0"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "keywords" : [
+        "Java",
+        "Spring",
+        "Maven",
+        "JUnit",
+        "Spring-Boot",
+        "Angular 7",
+        "Angular 8"
+    ],
+    "extensionPack": [ 
+        "vscjava.vscode-java-pack", 
+        "Pivotal.vscode-boot-dev-pack", 
+        "adashen.vscode-tomcat",
+        "redhat.vscode-xml",
+        "gabrielbb.vscode-lombok",
+        "coenraads.bracket-pair-colorizer-2",
+        "SonarSource.sonarlint-vscode",
+        "shengchen.vscode-checkstyle",
+        "ms-azuretools.vscode-docker"
+    ]
+}
