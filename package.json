@@ -18,9 +18,7 @@
         "Spring",
         "Maven",
         "JUnit",
-        "Spring-Boot",
-        "Angular 7",
-        "Angular 8"
+        "Spring-Boot"
     ],
     "extensionPack": [ 
         "vscjava.vscode-java-pack", 
