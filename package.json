@@ -2,7 +2,7 @@
     "name": "java-spring-extension-pack",
     "displayName": "Java + Spring Extension Pack",
     "description": "Some of the most popular and useful Java and Spring extensions",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "publisher": "loiane",
     "icon": "javaspring.png",
     "license": "SEE LICENSE IN LICENSE.md",
