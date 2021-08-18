@@ -2,13 +2,13 @@
     "name": "java-spring-extension-pack",
     "displayName": "Java + Spring Extension Pack",
     "description": "Some of the most popular and useful Java and Spring extensions",
-    "version": "0.0.2",
+    "version": "0.0.3",
     "publisher": "loiane",
     "icon": "javaspring.png",
     "license": "SEE LICENSE IN LICENSE.md",
     "repository": "https://github.com/loiane/java-spring-extension-pack",
     "engines": {
-        "vscode": "^1.50.0"
+        "vscode": "^1.32.0"
     },
     "categories": [
         "Extension Packs"
