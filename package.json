@@ -6,7 +6,7 @@
     "publisher": "loiane",
     "icon": "javaspring.png",
     "license": "SEE LICENSE IN LICENSE.md",
-    "repository": "https://github.com/loiane/java-spring-extension-pack",
+    "repository": "https://github.com/vruggeri/java-spring-extension-pack",
     "engines": {
         "vscode": "^1.32.0"
     },
