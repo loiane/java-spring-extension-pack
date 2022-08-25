@@ -4,6 +4,9 @@ All notable changes to the "java-spring-extension-pack" extension pack will be d
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
+## 1.3.0 - 2022-August-25
+- Removed [Bracket Pair Colorizer 2](https://marketplace.visualstudio.com/items?itemName=coenraads.bracket-pair-colorizer-2)
+
 ## [Unreleased]
 
 - Initial release

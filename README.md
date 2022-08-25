@@ -30,8 +30,6 @@ This package includes:
 
 * [Lombok Annotations Support for VS Code](https://marketplace.visualstudio.com/items?itemName=gabrielbb.vscode-lombok) - A lightweight extension to support Lombok annotations processing in Visual Studio Code. If you don't use Lombok in your projects, you can disable this extension.
 
-* [Bracket Pair Colorizer 2](https://marketplace.visualstudio.com/items?itemName=coenraads.bracket-pair-colorizer-2) - A customizable extension for colorizing matching brackets. Very useful for nested `for` loops, several `if-else` statements, reactive programing operators + lambda. Makes it easier to read the source code.
-
 * [SonarLint](https://marketplace.visualstudio.com/items?itemName=SonarSource.sonarlint-vscode) - SonarLint is an IDE extension that helps you detect and fix quality issues as you write code in JavaScript, TypeScript, Python, Java, HTML and PHP. A must have for corporate environments!
 
 * [Checkstyle for Java](https://marketplace.visualstudio.com/items?itemName=shengchen.vscode-checkstyle) - Provide real-time feedback about Checkstyle violations and quick fix actions. Great extension to make sure you're following the code conventions (can customize to use Google or Sun convention).
