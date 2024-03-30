@@ -1,10 +1,10 @@
 {
     "name": "java-spring-extension-pack",
-    "displayName": "Java + Spring Extension Pack",
+    "displayName": "Extension Pack for Java + Spring",
     "description": "Some of the most popular and useful Java and Spring extensions",
     "version": "0.2.3",
     "publisher": "loiane",
-    "icon": "javaspring.png",
+    "icon": "springjava.png",
     "license": "SEE LICENSE IN LICENSE.md",
     "repository": "https://github.com/loiane/java-spring-extension-pack",
     "engines": {
@@ -13,16 +13,16 @@
     "categories": [
         "Extension Packs"
     ],
-    "keywords" : [
+    "keywords": [
         "Java",
         "Spring",
         "Maven",
         "JUnit",
         "Spring-Boot"
     ],
-    "extensionPack": [ 
-        "vscjava.vscode-java-pack", 
-        "Pivotal.vscode-boot-dev-pack", 
+    "extensionPack": [
+        "vscjava.vscode-java-pack",
+        "Pivotal.vscode-boot-dev-pack",
         "SonarSource.sonarlint-vscode",
         "shengchen.vscode-checkstyle",
         "ms-azuretools.vscode-docker",

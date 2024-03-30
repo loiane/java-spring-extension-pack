@@ -1,8 +1,5 @@
 # Visual Studio Code Java + Spring Extension Pack
 
-[![Version](https://vsmarketplacebadge.apphb.com/version/loiane.java-spring-extension-pack.svg)](https://marketplace.visualstudio.com/items?itemName=loiane.java-spring-extension-pack)
-[![Installs](https://vsmarketplacebadge.apphb.com/installs/loiane.java-spring-extension-pack.svg)](https://marketplace.visualstudio.com/items?itemName=loiane.java-spring-extension-pack)
-
 This extension pack packages some of the most popular (and some I find very useful) VSCode Java and Spring extensions.
 
 ## Extensions Included
