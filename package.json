@@ -2,7 +2,7 @@
     "name": "java-spring-extension-pack",
     "displayName": "Java + Spring Extension Pack",
     "description": "Some of the most popular and useful Java and Spring extensions",
-    "version": "0.1.3",
+    "version": "0.2.3",
     "publisher": "loiane",
     "icon": "javaspring.png",
     "license": "SEE LICENSE IN LICENSE.md",
@@ -23,11 +23,10 @@
     "extensionPack": [ 
         "vscjava.vscode-java-pack", 
         "Pivotal.vscode-boot-dev-pack", 
-        "adashen.vscode-tomcat",
-        "redhat.vscode-xml",
-        "gabrielbb.vscode-lombok",
         "SonarSource.sonarlint-vscode",
         "shengchen.vscode-checkstyle",
-        "ms-azuretools.vscode-docker"
+        "ms-azuretools.vscode-docker",
+        "ryanluker.vscode-coverage-gutters",
+        "humao.rest-client"
     ]
 }
